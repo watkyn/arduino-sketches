@@ -22,6 +22,10 @@ int burnerThreshold = 20; // if the player hits that fast, give a good chance to
 
 
 
+// feature list for next time
+// alternate between olympic mode and "rest of us" mode
+// 
+
 
 int ledPins[] = {2,3,4,5,6,7,8,9};
 int playerOne = ledPins[0];
@@ -181,6 +185,5 @@ void turnOffPingPongBalls() {
     digitalWrite(ledPins[index], LOW);
   } 
 }
-
 
 
