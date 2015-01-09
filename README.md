@@ -1,4 +1,4 @@
-## How to get these sketches to work
+## Welcome
 
 We (my kids and I) are using a sparkfun RedBoard Arduino and are including
 pictures of the circuit along with each sketch.
