@@ -16,10 +16,10 @@
 #define SWITCHPIN 13 // pin for the switch / LED
 #define DHTTYPE DHT22   // DHT 22  (AM2302)
 
-#define DESIRED_TEMP 99.7
-#define LETHAL_TEMP 103.0
-#define HUMIDITY_MINIMUM 35.0
-#define HUMIDITY_MAXIMUM 52.0
+#define DESIRED_TEMP 101.0
+#define LETHAL_TEMP 104.0
+#define HUMIDITY_MINIMUM 15.0
+#define HUMIDITY_MAXIMUM 60.0
 #define SENSOR_READ_INTERVAL 15
 
 // Morse Code signals
