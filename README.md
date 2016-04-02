@@ -19,3 +19,6 @@ For this project you will need quite a bit of extra materials, such as a foam in
 the DHT temp and humidity sensor, and some sort of A/C power switch to hook to the Arduino.
 
 
+## Libraries
+
+#### Copy or symlink the folders in libraries to the ~/Documents/Arduino/libraries folder
